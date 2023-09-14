@@ -1,4 +1,4 @@
-# FaceEmotionsBraulioBlanca
+# Face Emotions
 
 Detection of emotions from pictures of faces.
 
